@@ -1,0 +1,8 @@
+> git pull --tags origin main
+From https://github.com/mervinfenolen-cell/bootcamp
+ * branch            main       -> FETCH_HEAD
+   9adc5b9..373143c  main       -> origin/main
+error: Your local changes to the following files would be overwritten by merge:
+	test
+Please commit your changes or stash them before you merge.
+Aborting
